@@ -1,0 +1,15 @@
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\bin\Debug\net6.0\droll.exe
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\bin\Debug\net6.0\droll.deps.json
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\bin\Debug\net6.0\droll.runtimeconfig.json
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\bin\Debug\net6.0\droll.dll
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\bin\Debug\net6.0\droll.pdb
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.csproj.AssemblyReference.cache
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.AssemblyInfoInputs.cache
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.AssemblyInfo.cs
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.csproj.CoreCompileInputs.cache
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.dll
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\refint\droll.dll
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.pdb
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\droll.genruntimeconfig.cache
+C:\Users\Mishae Johnson\Desktop\branchMerg\droll\obj\Debug\net6.0\ref\droll.dll
